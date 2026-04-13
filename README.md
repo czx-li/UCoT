@@ -33,20 +33,18 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Citation
+
+## 📚 Citation
 
 If you find our work helpful, please cite us with the following BibTex entry:
 
 ```
-@inproceedings{li2024dialogue,
-  title={Dialogue for Prompting: A Policy-Gradient-Based Discrete Prompt Generation for Few-Shot Learning},
-  author={Li, Chengzhengxu and Liu, Xiaoming and Wang, Yichen and Li, Duyi and Lan, Yu and Shen, Chao},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={38},
-  number={16},
-  pages={18481--18489},
-  year={2024}
+@article{li2025upfront,
+  title={Upfront Chain-of-Thought: A Cooperative Framework for Chain-of-Thought Compression},
+  author={Li, Chengzhengxu and Liu, Xiaoming and Zhang, Zhaohan and Zhang, Shaochu and Liu, Shengchao and Ma, Guoxin and Lan, Yu and Shen, Chao},
+  journal={arXiv preprint arXiv:2510.08647},
+  year={2025}
 }
 ```
 
-Link to AAAI 2024 version paper: Updated Later
+## 🤗 Link to ACL 2026 version paper: Updated Later
