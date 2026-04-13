@@ -28,9 +28,9 @@ pip install torch==2.10.0 torchvision==0.25.0 torchaudio==2.10.0 --index-url htt
 pip install -r requirements.txt
 ```
 
-### 3.Train and save UCoT modules
+### 3.Train and save UCoT compressor modules
 ```bash
-python main.py
+python compressor_main.py
 ```
 
 
