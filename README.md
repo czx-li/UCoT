@@ -39,7 +39,12 @@ python compressor_main.py
 If you find our work helpful, please cite us with the following BibTex entry:
 
 ```
-Updated Later
+@article{li2026upfront,
+  title={Can Reasoning Path still be Effective as Input? Bridging Post-Reasoning to Chain-of-Thought Compression},
+  author={Chengzhengxu Li, Xiaoming Liu*, Zhaohan Zhang, Shengchao Liu, Guoxin Ma, Yu Lan, Cong Wang, Chao Shen},
+  journal={ACL2026},
+  year={2026}
+}
 ```
 
 ## 🤗 Link to ACL 2026 version paper: Updated Later
